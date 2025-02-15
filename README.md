@@ -84,12 +84,16 @@ python gradio_app.py
 
 Here are some examples of what you can do with the Web Agent Assistant:
 
+![Example Use Case](asset/example-use-case.png)
+
 ```plaintext
 "Navigate to google.com and search for latest news"
 "Fill out this contact form with my information"
 "Find the best price for this product across different tabs"
 "Log into my account using these credentials"
 ```
+
+
 
 ## 🔧 Configuration Options
 

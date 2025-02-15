@@ -140,7 +140,7 @@ Contributions are welcome! Please feel free to submit pull requests. For major c
 - Gradio team for the UI framework
 - All contributors and supporters
 
-# 📝 License
+## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
